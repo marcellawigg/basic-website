@@ -3,7 +3,6 @@
 
 
 body {
-  position: absolute;
   padding-top: 8%;
   font-family: "Lato", sans-serif;
   background-color: #A2A3A8;
@@ -25,9 +24,6 @@ body {
 }
 
 .image {
-  position: relative;
   padding-left: 5%;
   padding-right: 5%;
-  max-height: 75px;
-  max-width: 75px;
 }
